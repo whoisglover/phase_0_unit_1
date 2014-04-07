@@ -10,7 +10,7 @@ asdfasd
   * Performance Optimization 
 
 * What's the quick key for your OS to spawn the Dev Tools inspector?
-  Command+Option+I or Command+Shift+C (for element inspector)
+ <br> Command+Option+I or Command+Shift+C (for element inspector)
 
 * Go to http://www.postmachina.com/ and analyze and tweak this nicely designed page.
   * What is the current background color for the page?  (Surprisingly, it's not just black!)
