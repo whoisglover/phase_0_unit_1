@@ -9,3 +9,4 @@ Welcome to Phase 0! Below you will find links to the curriculum for each week. E
 #### How to navigate this repository
 If you would like to open tabs in a new window, please either right click or hold command while you click. 
 
+Trying an edit and commit to make sure things are chill.
