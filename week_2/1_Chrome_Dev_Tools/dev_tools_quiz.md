@@ -1,5 +1,7 @@
 #### Include an inline screenshot of your codeschool's points from the profile page:
 
+
+<img src="http://www.google.com/imgres?imgurl=http%3A%2F%2Fwww.weidert.com%2FPortals%2F65360%2Fimages%2Fpanda%2525203_7.png&imgrefurl=http%3A%2F%2Fwww.weidert.com%2Fwhole_brain_marketing_blog%2Fbid%2F106658%2FPanda-3-7-How-Does-it-Affect-Your-Search-Engine-Optimization-SEO&h=394&w=540&tbnid=6K1CFOtG9l-2oM%3A&zoom=1&docid=DOEkCeUmGnzWsM&ei=ZzRCU53FBc6O2gXi-4C4Bw&tbm=isch&ved=0CJcBEIQcMBA&iact=rc&dur=1872&page=2&start=15&ndsp=25"/>
 ![Panda](http://www.google.com/imgres?imgurl=http%3A%2F%2Fwww.weidert.com%2FPortals%2F65360%2Fimages%2Fpanda%2525203_7.png&imgrefurl=http%3A%2F%2Fwww.weidert.com%2Fwhole_brain_marketing_blog%2Fbid%2F106658%2FPanda-3-7-How-Does-it-Affect-Your-Search-Engine-Optimization-SEO&h=394&w=540&tbnid=6K1CFOtG9l-2oM%3A&zoom=1&docid=DOEkCeUmGnzWsM&ei=ZzRCU53FBc6O2gXi-4C4Bw&tbm=isch&ved=0CJcBEIQcMBA&iact=rc&dur=1872&page=2&start=15&ndsp=25)
 <!-- Modify the Markdown to include your answers. Don't delete the questions! -->
 
