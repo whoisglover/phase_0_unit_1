@@ -5,12 +5,12 @@
 <!-- Modify the Markdown to include your answers. Don't delete the questions! -->
 
 ##QUIZ
-* Explain which tabs support the following actions and how.
+* **Explain which tabs support the following actions and how.**
   * Realtime editing of HTML and CSS 
    * Elements tab lets you change your HTML and CSS in realtime and see the changes on the page.  You can even save your changes locally or revert changes you have made.  If you are happy with your changes you can use 'Save as..' to overwrite your HTML or CSS files permanently.
-  * Javascript Debugging
+  * **Javascript Debugging**
    * Profiles tab lets you collect Javascript CPU Profile to see which javascript functions are slowing down the browsers fps.  The network tab lets you see which Javascript calls are taking the longest and how much minifying them can save your page load time.  Finally the console will let you debug Javascript by giving you a terminal to run javascript and see what is being produced.  You can then inspect those elements and make changes to fix the bugs.
-  * Performance Optimization 
+  * **Performance Optimization**
    * Most performance optimization is done through the network tab.  Viewing the page download tree can show you which elemetns are slowing down your pages load time.  This can provide valuable information and suggest optimizations, like combining javascript files.  Profiles tab can also help with optimization through the Javascript CPU profile previously mentioned or using Heap Snapshot to track down memory leaks that may be slowing down your page.
 
 * What's the quick key for your OS to spawn the Dev Tools inspector?
