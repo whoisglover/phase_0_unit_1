@@ -8,8 +8,11 @@
 ```
 * How did using Chrome Web Tools to look at your site and a wordpress.com site compare?
 
-	* 
+	* My site had very little in the DOM when inspected by Chrome Web Tools.  Wordpress.com on the other hand had an amazing amount of objects.  The head tag alone blew my mind with its complexity.  It was also really cool to see wordpress using the new HTML tags like video.
 
 * Did you find Chrome Web Tools fun, helpful, or a pain to work with?
+	* I felt a little nervous using Chrome Web Tools.  It seemed like driving a Ferrari.  Extremely powerful but very sensitive.  I often found myself accidently clicking things and ending up somewhere on the Web Tools I didn't mean to be.  I think practice will make perfect and I'm really excited about the idea of being able to harness it's full power.
 * Did you have an "aha" moments or were any concepts solidified?
+	* The javascript section that explained minify was a definite aha moment for me. I had seen minify js files before but never had an explanation as to why they were used.  I really like the optimization aspect of Web Tools and I think thats where I will use it most.
 * Did you find any resources on your own that helped you better understand a topic? If so, please list it.
+	* I didn't use any resources other than code school but I have always been a fan of Code School, I think Greg Pollack is an awesome teacher and I hope we get to use more of his lectures.
