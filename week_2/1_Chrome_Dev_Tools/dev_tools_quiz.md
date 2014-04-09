@@ -28,6 +28,7 @@
 <img src="http://s22.postimg.org/5nl9szwbl/Screen_Shot_2014_04_08_at_10_32_56_PM.png" />
 
 * For the postmachina website, why can't you tweak the color of the text "The most important things are not things"?  Please explain.
+	* The middle box and text are actually one image.  The image is uploaded as the paragraph tag's background and the actual text of the paragraph has a text-indent:-9999px so it is never seen.  
 
 * Go to www.ticketswizard.com and analyze the page.  
   * What is the largest image on the website? 
