@@ -32,6 +32,9 @@
 
 * Go to www.ticketswizard.com and analyze the page.  
   * What is the largest image on the website? 
+  	* A picture of times square that appears under featured events.
   * Explain how you would find out this information, and list the URL of offending image here and how big it is.
+ 	 * Found this info by going to network tab, pressing record, and reloading page to see how long it takes to load each asset and each asset's size.  Offending image size was 316 KB.
 
 * Test the www.ticketswizard.com website with google's [PageSpeed Insights](http://www.ticketswizard.com/).  (You can also download the chrome plugin).  What is the lowest hanging fruit to optimize the website?  How many kilobytes of data can be eliminated?
+	* In my opinion minifying the CSS, Javascript, and HTML would be the lowest hanging fruit.  All together these would result in a reduction of 9.3 KiB.
