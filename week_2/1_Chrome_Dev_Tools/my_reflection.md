@@ -1,8 +1,15 @@
 # U1.W2: Chrome Dev Tools Challenge Reflection
 
 * **Describe the Document Object Model? What about it makes sense to you? What doesn't? What seems good and bad about it?**
-  * The Document Object Model (DOM) is simply a way to think of an HTML page.  This methodology states that the HTML page is a document, and the different pieces of HTML inside are objects.  Tags like <header>, <div>, or <p> are all objects.  Next it states that these objects are in a tree like hierarchy.  Objects can be nested inside of each other, always have a parent, and can have multiple or no children.  This tree structure really makes sense to me.  After studying computer science for a few years I have a great deal of experience nesting code and building things like binary search trees.  I have come to greatly appreciate the organization and optimization a tree structure can provide.  What doesn't make sense right away is how incorporating languages outside of HTML (i.e. php or javascript) relate to the DOM.  Are these objects as well?  I found this on Mozilla's guide but I'm still a bit skeptical > , the DOM was designed to be independent of any particular programming language, making the structural representation of the document available from a single, consistent API. Though we focus on JavaScript throughout this site, implementations of the DOM can be built for any language.
+  * The Document Object Model (DOM) is simply a way to think of an HTML page.  This methodology states that the HTML page is a document, and the different pieces of HTML inside are objects.  Tags like header, div, or p are all objects.  Next it states that these objects are in a tree like hierarchy.  Objects can be nested inside of each other, always have a parent, and can have multiple or no children.  This tree structure really makes sense to me.  After studying computer science for a few years I have a great deal of experience nesting code and building things like binary search trees.  I have come to greatly appreciate the organization and optimization a tree structure can provide.  What doesn't make sense right away is how incorporating languages outside of HTML (i.e. php or javascript) relate to the DOM. Are these objects as well?  I found this on Mozilla's guide but I'm still a bit skeptical:
+  
+```
+  "the DOM was designed to be independent of any particular programming language, making the structural representation of the document available from a single, consistent API. Though we focus on JavaScript throughout this site, implementations of the DOM can be built for any language." - Mozzila Guide
+```
 * How did using Chrome Web Tools to look at your site and a wordpress.com site compare?
+
+	* 
+
 * Did you find Chrome Web Tools fun, helpful, or a pain to work with?
 * Did you have an "aha" moments or were any concepts solidified?
 * Did you find any resources on your own that helped you better understand a topic? If so, please list it.
