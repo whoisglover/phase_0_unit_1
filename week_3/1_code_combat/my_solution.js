@@ -5,7 +5,11 @@
 // command + / This will comment the line. 
  
 //  Rescue Mission
-
+/*
+	1. Move tharin up one
+	2. Move tharin to the right once
+	3. Move tharin down two
+	4. attack ogre 
 
 
 //  Grab the Mushroom
@@ -27,7 +31,9 @@
 // Mobile Artillery
  
  
- 
+What is this referring to? Think programming-wise rather than in the terms of the game.
+What does the () do in JavaScript?
+What is the point of the semicolons?
  
  ///
  
@@ -42,3 +48,5 @@ Did you learn any new skills or tricks?
 How confident are you with each of the learning objectives?
 Which parts of the challenge did you enjoy?
 Which parts of the challenge did you find tedious?
+
+*/
