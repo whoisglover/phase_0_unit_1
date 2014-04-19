@@ -74,6 +74,21 @@ for(var i=0; i<clientList.length; i+=1){
 
 
 //  Your Reflection:
+/*
+
+This GPS was very successful. Martin and I had a good introduction and clearly defined 
+What we thought each role should be and when we should switch between navigator and driver.
+At first I expected to jump right into the challenge but Martin suggested we do some
+pseudo coding first, this turned out to be really helpful later on.  We moved through the 
+challenge smoothly and only needed to reference google once or twice.  Jonathan let us work
+through the challenge on our own but was really helpful when we were stuck and also offering 
+some improvements to the way we set up our code once we were done.
+
+*/
+
+
+
+
 
 
 
