@@ -58,6 +58,9 @@
 
 
 //  Break the Prison
+	1. Only open doors for friendly names
+	2. Move thru and record names
+	3. Add instructions to open these doors
 
 //  Taunt	
 	1. Use Say command 4x to get ogre to come down
@@ -74,14 +77,18 @@
 	2. Move to 65, 44
 	3. Say something to send troops into battle mode
 
-	
+
 
 // Mobile Artillery
  
  
 What is this referring to? Think programming-wise rather than in the terms of the game.
+-this is referring to a specific object, namely the object that this is called inside of.
 What does the () do in JavaScript?
+-() after a function name means that you are calling that function but not passing in any 
+parameters or extra information
 What is the point of the semicolons?
+-Semicolons end statements, tells the program to move on to the next piece of the code
  
  ///
  
@@ -90,11 +97,23 @@ What is the point of the semicolons?
 // Write your reflection here.
 
 What parts of your strategy worked? What problems did you face?
+-Looking at the level a bit before starting helped me to write effective pseudo code.
+	I have really come to appreciate writing good pseudo code before diving into each challenge
+	it has definitely made my life easier.
 What questions did you have while coding? What resources did you find to help you answer them?
+-I found the code combat challenges to be fairly easy and didn't have many questions.
 What concepts are you having trouble with, or did you just figure something out? If so, what?
+- I am not having trouble with any of the concepts thus far.
 Did you learn any new skills or tricks?
+-I solidified my knowledge of object literals and calling methods.  I have quite a bit of experience
+	with these concepts from doing object oriented programming in Java.
 How confident are you with each of the learning objectives?
+- I feel very confident with all of the learning objectives from this challenge.
 Which parts of the challenge did you enjoy?
+- I enjoyed the code combat game in general.  I have never seen coding worked into a fun game like this.	
+	I think this type of learning has the potential to spread computer science to broader and younger
+	audiences.
 Which parts of the challenge did you find tedious?
+- The low difficulty level of the code combat missions made them seem a little tedious.
 
 */
