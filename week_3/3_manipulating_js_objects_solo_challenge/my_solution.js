@@ -83,7 +83,6 @@ adam.children = terah.children;
 // __________________________________________
 // Reflection: Use the reflection guidelines
 /*
-
   - Again working step by step and not looking ahead seemed to work very well for error checking.  I faced the problem of what I thought
 was a perfect answer still not compiling correctly.  I solved this by either starting the test from scratch or walking away for a few
 minutes to clear my mind and realize an obvious mistake I was making.
