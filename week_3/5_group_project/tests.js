@@ -1,3 +1,32 @@
+// I am person 1, below is our perfectly working group code
+
+function sum (arr) {
+  var total = 0;
+  for(var i=0; i < arr.length; i++) {
+    total+= arr[i];
+  }
+  return total;
+}
+
+
+function mean (arr) {
+  var arraySum= sum(arr);
+  return (arraySum/arr.length);
+}
+
+function median (arr) {
+  var sortedArray= arr.sort();
+  if (sortedArray.length%2===0) {
+    return (((sortedArray[sortedArray.length/2])+(sortedArray[(sortedArray.length-2)/2]))/2) 
+  }
+  else  {
+    return sortedArray[(sortedArray.length-1)/2];
+}
+}
+
+
+
+
 // __________________________________________
 // Tests:  Do not alter code below this line.
 
